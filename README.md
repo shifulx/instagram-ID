@@ -10,6 +10,6 @@ Do NOT use for spamming or real account creation. May lead to account ban.
 
 🚀 Usage
 
-python insta_register.py
+python shiful-st.py
 
 
